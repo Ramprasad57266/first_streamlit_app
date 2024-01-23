@@ -1,4 +1,5 @@
 import streamlit
+import snowflake.connector
 
 streamlit.title('My family new healthy diner')
 streamlit.header('Breakfast Menu')
